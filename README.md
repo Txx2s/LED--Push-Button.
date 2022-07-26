@@ -31,22 +31,9 @@ Then we program us using Arduino Id.
 
 Code:
 
-int ledPin = 2; 
-int inPin = 4;
-int val = 0;
 
-void setup {
- pinMode(ledPin, OUTPUT); 
- pinMode(inPin, INPUT);
+![image](https://user-images.githubusercontent.com/108034996/181048761-b39b7bde-54d8-4cc0-a522-8c9871ab2beb.png)
 
-void loop()
-val = digitalRead(inPin); 
- if (val == HIGH) {
-
-digitalWrite(ledPin, HIGH); 
-} else {
-digitalWrite(ledPin, LOW); 
-}}
 
 
 
