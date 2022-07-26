@@ -6,7 +6,7 @@ In this experiment, we want to create an electrical circuit to control the LED v
 The tools we need in this experience:
 1-Arduino cntrolar
 2- Breadboard.
-3-LED
+3-LED.
 4- Push Button.
 5-Resistor.
 5-Wires.
